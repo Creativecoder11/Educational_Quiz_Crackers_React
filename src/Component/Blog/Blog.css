@@ -1,0 +1,6 @@
+.blog-container{
+    display: flex;
+    justify-items: center;
+    text-align: center;
+    width: 800px;
+}
